@@ -52,6 +52,8 @@ The **HealthConnect Data Dictionary** was used to understand the variables in th
 
 ## 🔍 EXCEL ANALYSIS
 - Checking for missing values
+
+  
   <img width="351" height="455" alt="Screenshot 2026-09-04 101811" src="https://github.com/user-attachments/assets/7c5a1de3-d543-45d6-8bbd-73db2107a63e" />
 
 
@@ -90,8 +92,8 @@ The dashboard provides an overview of appointment performance and allows users t
 - No-show analysis
 - Interactive slicers
 
-<img width="326" height="265" alt="Screenshot 2026-09-04 102525" src="https://github.com/user-attachments/assets/8bee40d8-04ee-42e2-96ed-2051692b8bf5" />
-
+<img width="608" height="335" alt="Screenshot 2026-09-04 102220" src="https://github.com/user-attachments/assets/022869a1-40c0-41aa-b4d0-d2c481c6da48" />
+  
 
 
 ## 💡 Key Insights
@@ -99,8 +101,8 @@ The dashboard provides an overview of appointment performance and allows users t
 The analysis produced at least five meaningful insights relating to patient appointment attendance and no-show behaviour.
 
 The insights were evaluated based on their potential implications for HealthConnect and were used to develop data-driven recommendations.
+<img width="326" height="265" alt="Screenshot 2026-09-04 102525" src="https://github.com/user-attachments/assets/8bee40d8-04ee-42e2-96ed-2051692b8bf5" />
 
-<img width="608" height="335" alt="Screenshot 2026-09-04 102220" src="https://github.com/user-attachments/assets/022869a1-40c0-41aa-b4d0-d2c481c6da48" />
 
 ## 📌 Recommendations
 
