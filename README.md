@@ -107,17 +107,13 @@ The insights were evaluated based on their potential implications for HealthConn
 ## 📌 Recommendations
 
 Based on the findings, recommendations were developed to help HealthConnect:
+
+
 <img width="332" height="255" alt="Screenshot 2026-09-04 102909" src="https://github.com/user-attachments/assets/f3fbf573-fdc5-4539-976c-00989ca35c13" />
 
 
 
 ## ⚠️ Limitations
-
-- The dataset is fictional and anonymized.
-- The analysis is limited to the variables available in the dataset.
-- Missing or inconsistent records may affect some results.
-- The analysis identifies relationships and patterns but does not establish causation.
-- Some reasons for missed appointments may not be captured in the available data.
 
 
 <img width="334" height="275" alt="Screenshot 2026-09-04 103112" src="https://github.com/user-attachments/assets/7dce1458-6e89-444e-bebb-7c39ab570a3b" />
