@@ -136,6 +136,39 @@ This project demonstrates how Excel, SQL, and Power BI can be used together to t
 
 The analysis provides HealthConnect with a better understanding of appointment attendance and missed appointment patterns, supporting data-driven recommendations aimed at improving patient attendance, appointment management, and the patient support experience.
 
+## Week 6 – Advanced Analysis & Dashboard Improvement
+
+During Week 6, I built on the findings from Week 5 by conducting additional analysis of appointment no-show behaviour.
+
+### Additional Analysis
+- Investigated the relationship between **previous no-show history** and no-show rates.
+- Investigated the relationship between **booking lead time** and no-show rates.
+- Combined **booking lead time** with **previous no-show history** to identify higher-risk patterns.
+
+### Key Findings
+- Patients with previous no-shows generally had higher no-show rates.
+- No-show rates generally increased as booking lead time became longer.
+- Patients with **1+ previous no-shows** had higher no-show rates across the booking lead-time groups compared with patients with 0 previous no-shows.
+- The highest observed no-show rate in the combined analysis was **69.05%** for patients with 1+ previous no-shows and a booking lead time of 31–60 days.
+
+### Dashboard Improvement
+The Power BI dashboard was improved by adding a combined line chart showing:
+
+**No-Show Rate by Booking Lead Time & Previous No-Show History**
+
+This allows the two Week 5 findings to be analysed together rather than separately.
+
+<img width="605" height="337" alt="Screenshot 2026-09-13 170334" src="https://github.com/user-attachments/assets/87785c69-a436-4fdb-b010-ab0f60a949ca" />
+
+
+
+### Cross-Track Integration
+The analytical findings were prepared as input for the **Data Science** track to support further modelling considerations. Data Science feedback was pending at the time of documentation.
+
+### Week 6 Outcome
+The Week 6 work provided a deeper understanding of factors associated with appointment no-shows and improved the dashboard's ability to support targeted decision-making.
+
+
 
 
 
