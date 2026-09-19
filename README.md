@@ -136,7 +136,7 @@ This project demonstrates how Excel, SQL, and Power BI can be used together to t
 
 The analysis provides HealthConnect with a better understanding of appointment attendance and missed appointment patterns, supporting data-driven recommendations aimed at improving patient attendance, appointment management, and the patient support experience.
 
-## Week 6 – Advanced Analysis & Dashboard Improvement
+##  Advanced Analysis & Dashboard Improvement
 
 During Week 6, I built on the findings from Week 5 by conducting additional analysis of appointment no-show behaviour.
 
@@ -156,7 +156,7 @@ The Power BI dashboard was improved by adding a combined line chart showing:
 
 **No-Show Rate by Booking Lead Time & Previous No-Show History**
 
-This allows the two Week 5 findings to be analysed together rather than separately.
+This allows the  Week 5 findings to be analysed together rather than separately.
 
 <img width="605" height="337" alt="Screenshot 2026-09-13 170334" src="https://github.com/user-attachments/assets/87785c69-a436-4fdb-b010-ab0f60a949ca" />
 
@@ -165,8 +165,12 @@ This allows the two Week 5 findings to be analysed together rather than separate
 ### Cross-Track Integration
 The analytical findings were prepared as input for the **Data Science** track to support further modelling considerations. Data Science feedback was pending at the time of documentation.
 
-### Week 6 Outcome
+### Outcome
 The Week 6 work provided a deeper understanding of factors associated with appointment no-shows and improved the dashboard's ability to support targeted decision-making.
+
+### Testing & Validation
+The healthconnect dashboard was tested to validate its filter, KPI output and key analytical interactions. Testing covered Appointment type, Reminder sent, Age group and Previous No-Shows History/Booking Lead Time. The dashboard responded correctly to the tested interaction and the baseline KPI values were documented.
+Cross-track validation remained pending because no feedback was received from other project tracks during the testing period
 
 
 
